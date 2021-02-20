@@ -1,0 +1,47 @@
+html,body
+{
+ color:Blue;
+ font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif; 
+  background: url(img1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 300 rem;
+	color: #2c3339;
+}
+
+hr{
+	color: #FF5733;
+	align-content: center;
+	border-color: #FF5733;
+	border-width: 10px;
+	max-width: 65px;
+}
+.btn{
+	font-weight: 300;
+	border-radius: 300px;
+	text-transform: uppercase;
+	
+}
+.btn-primary{
+	background-color: #FF5733 ;
+	border-color:  #FF5733;
+}
+
+.b1{
+	
+	padding: 2 rem 4 rem;
+	 
+}
+.btn-primary:hover
+{
+	background-color: #FF5733;
+	border-color: #FF5733;
+	border-width: 6px;
+
+}
+}
